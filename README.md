@@ -20,7 +20,7 @@
 
 - A PC or Mac with a compatible operating system.
 - A VR headset (optional for creation, required for full VR experience).
-- [Download the latest version of VR Creator](https://www.smarteye.com/vrcreator/download).
+- [Download the latest version of VR Creator](https://github.com/smarteyedev/VR-Creator).
 
 ### Steps
 
@@ -39,11 +39,11 @@
 
 ## Documentation
 
-For detailed instructions and advanced features, please refer to the [VR Creator Documentation](https://www.smarteye.com/vrcreator/docs).
+For detailed instructions and advanced features, please refer to the [VR Creator Documentation](https://smarteye.id).
 
 ## Support
 
-If you encounter any issues or have any questions, please visit our [Support Page](https://www.smarteye.com/support) or contact our support team at support@smarteye.com.
+If you encounter any issues or have any questions, please visit our [Support Page](https://smarteye.id) or contact our support team at support@smarteye.com.
 
 ## License
 
@@ -57,12 +57,9 @@ We welcome contributions from the community. If you would like to contribute to 
 
 For more information about VR Creator or to request additional features, please contact us:
 
-- **Website**: [SmartEye](https://www.smarteye.com)
-- **Email**: info@smarteye.com
-- **Twitter**: [@SmartEyeVR](https://twitter.com/SmartEyeVR)
+- **Website**: [SmartEye](https://smarteye.id)
+- **Email**: contact@smarteye.id
 
 Thank you for choosing VR Creator by SmartEye! We can't wait to see what you create.
 
 ---
-
-*This README was last updated on June 4, 2024.*
